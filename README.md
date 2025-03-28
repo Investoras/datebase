@@ -1,1 +1,1 @@
-This repository is needed as datebase on project.
+This repository is needed for datebase on project.
